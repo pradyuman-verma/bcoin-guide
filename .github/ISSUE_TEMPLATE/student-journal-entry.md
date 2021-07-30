@@ -2,7 +2,7 @@
 name: Pradyuman Verma
 about: This week we learned about double-spent attack, chain reorg and we also looked at some code from test library and tried to mess with it such that all test cases passes.
 We also discussed some questions like - what is request timeout?, how to restore your wallet using mnemonic?, and about BIP 44 and BIP 43.
-title: "[JOURNAL] Week 02"
+title: "[JOURNAL] Week 02 "
 labels: ''
 assignees: ''
 
